@@ -1,5 +1,5 @@
-./Pipfile
+Pipfile
 
-./Pipfile.lock
+Pipfile.lock
 
-./.gitignore
+.gitignore
